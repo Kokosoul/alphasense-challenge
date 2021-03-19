@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  align-items: center;
+  background-color: #212529;
+  font-family: Helvetica;
+  font-weight: 300;
+  font-size: 150%;
+  padding: 12px 16px;
+  & a {
+    color: white;
+    text-decoration: none;
+  }
+}

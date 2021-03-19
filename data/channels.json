@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Channel 1",
+    "messages": [
+      {
+        "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      {
+        "message": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "message": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+        "message": "From its medieval origins to the digital era, learn everything there is to know about the ubiquitous lorem ipsum passage."
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Channel 2",
+    "messages": [
+      {
+        "message": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+      },
+      {
+        "message": "If life were predictable it would cease to be life, and be without flavor."
+      },
+      {
+        "message": "Life is what happens when you're busy making other plans."
+      },
+      {
+        "message": "It's not that I'm so smart, it's just that I stay with problems longer."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Channel 3",
+    "messages": [
+      {
+        "message": "Enter your message here."
+      }
+    ]
+  }
+]

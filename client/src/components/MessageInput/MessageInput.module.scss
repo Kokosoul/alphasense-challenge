@@ -1,0 +1,26 @@
+.inputcontainer {
+  border-radius: 0.25rem;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1),
+    0 0 0 1px rgba(10, 10, 10, 0.02);
+  color: #4a4a4a;
+  padding: 15px;
+  margin: 10px;
+  max-width: 500px;
+  & textarea {
+    font-family: Arial, sans-serif;
+    width: 100%;
+  }
+  & button {
+    background-color: #00d1b2;
+    border-color: transparent;
+    color: #fff;
+    margin-top: 10px;
+    font-size: 1rem;
+    padding: 8px;
+    border-radius: 4px;
+    &:hover {
+      cursor: pointer;
+      background-color: #00c4a7;
+    }
+  }
+}
