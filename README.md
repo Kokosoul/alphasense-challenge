@@ -2,7 +2,9 @@
 
 Alphasense coding challenge
 
-Please use `npm install` on root folder. This will install dependecies for both server and client.
+Please run `npm install` in root folder. This will install dependecies for both server and client.
+I am using the npm script to install dependencies. Please refer to package.json file for other commands.
+
 Use `npm start` command to start the application.
 
 ---
