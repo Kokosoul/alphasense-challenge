@@ -1,5 +1,4 @@
 const express = require("express");
-const request = require("request");
 const { check, validationResult } = require("express-validator");
 
 const channelsPath = "./data/channels.json";
