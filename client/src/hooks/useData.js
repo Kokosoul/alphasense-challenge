@@ -53,6 +53,7 @@ export function useUpdateMessage() {
 
   return useMutation(updateMessage, {
     onMutate: ({ id, message }) => {
+      // This will update the channel message optimistically
       queryClient.setQueryData(["messages", id], (old) => {
         return {
           id: old.id,
